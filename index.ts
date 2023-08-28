@@ -1,0 +1,1 @@
+console.log("Hey M Usama Azam, I have started learning TYPESCRIPT.");
